@@ -1,5 +1,5 @@
 {
-    "name": "@sandersgutierrez/nodejs-template",
+    "name": "@FrancoMazzieri/nodejs-template",
     "version": "0.0.0",
     "description": "",
     "private": true,
@@ -12,14 +12,14 @@
         "start": "node src/index.js"
     },
     "keywords": [],
-    "author": "Sanders Gutiérrez <ing.sanders@gmail.com> (https://sandersgutierrez.github.io/)",
+    "author": "",
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/sandersgutierrez/nodejs-template.git"
+        "url": ""
     },
     "bugs": {
-        "url": "https://github.com/sandersgutierrez/nodejs-template/issues"
+        "url": ""
     },
     "devDependencies": {
         "@commitlint/cli": "17.7.1",
